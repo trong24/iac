@@ -1,0 +1,1 @@
+https://github.com/terraform-google-modules/terraform-google-network/tree/v2.5.0/modules/subnets
