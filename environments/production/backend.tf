@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "web-autonomous-v2-tfstate"
+    bucket = "web-v2-tfstate"
     prefix = "env/prod"
   }
 }

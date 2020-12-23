@@ -1,4 +1,4 @@
-# Autonomous Infrastructure As Code
+# Infrastructure As Code
 
 ## Prerequisites
 Make sure you install terraform.
